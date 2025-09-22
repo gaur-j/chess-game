@@ -4,6 +4,9 @@ A simple browser‑based chess game built with HTML, CSS, and JavaScript.
 
 ---
 
+## App link:
+[Chess Game](https://chess-game-sigma-three.vercel.app)
+
 ## Table of Contents
 
 - [Features](#features)  
